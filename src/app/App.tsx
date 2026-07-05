@@ -423,7 +423,7 @@ export default function App() {
           {/* Grid */}
           <div
             className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4"
-            style={{ gap: "5px",  }}
+            style={{ gap: "9px",  }}
           >
           {/* background: "rgba(255,255,255,0.05)" */}
             {currentCategory?.items.map(item => (
