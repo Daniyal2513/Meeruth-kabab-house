@@ -840,7 +840,7 @@ function MenuCard({ item, onAdd }: { item: MenuItem; onAdd: () => void }) {
         />
         <div
           className="absolute inset-0"
-          style={{ background: "linear-gradient(to top, #161616 0%, rgba(22,22,22,0.3) 50%, transparent 100%)" }}
+          // style={{ background: "linear-gradient(to top, #161616 0%, rgba(22,22,22,0.3) 50%, transparent 100%)" }}
         />
       </div>
 
